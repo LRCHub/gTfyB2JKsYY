@@ -1,0 +1,256 @@
+{
+  "version": 1,
+  "base_track": "Friday Night",
+  "base_artist": "tonun",
+  "createdAt": "2026-02-28T12:24:54.520241Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Friday Night Blues",
+      "artist": "John Conlee",
+      "has_synced": true,
+      "path": "select/01_Friday_Night_Blues_John_Conlee.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Friday Night Fever",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/02_Friday_Night_Fever_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Friday Night Fever (Album Version)",
+      "artist": "George Strait",
+      "has_synced": true,
+      "path": "select/03_Friday_Night_Fever_(Album_Version)_George_Strait.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Friday Night",
+      "artist": "Lily Allen",
+      "has_synced": false,
+      "path": "select/04_Friday_Night_Lily_Allen.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Friday Night Saturday Morning",
+      "artist": "Nouvelle Vague",
+      "has_synced": false,
+      "path": "select/05_Friday_Night_Saturday_Morning_Nouvelle_Vague.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Friday Night",
+      "artist": "Twenty 4 Seven",
+      "has_synced": false,
+      "path": "select/06_Friday_Night_Twenty_4_Seven.txt"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce da 5'9 & Eminem)",
+      "artist": "Big Sean feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce Da 5'9\" & Eminem",
+      "has_synced": true,
+      "path": "select/07_Friday_Night_Cypher_(feat._Tee_Grizzley,_Kash_Doll,_Cash_Kidd,_Payroll,_42_Dugg,_Big_Sean_feat._Tee_Grizzley,_Kash_Doll,_Cash_Kidd,_Payroll,_42_Dugg,_Boldy_James.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Friday Night Cypher (feat. Tee Grizzley, Kash Doll, Cash Kidd, Payroll, 42 Dugg, Boldy James, Drego, Sada Baby, Royce da 5'9\", & Eminem)",
+      "artist": "Big Sean",
+      "has_synced": true,
+      "path": "select/08_Friday_Night_Cypher_(feat._Tee_Grizzley,_Kash_Doll,_Cash_Kidd,_Payroll,_42_Dugg,_Big_Sean.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Friday Night",
+      "artist": "Beth Orton",
+      "has_synced": false,
+      "path": "select/09_Friday_Night_Beth_Orton.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Friday Night",
+      "artist": "The Darkness",
+      "has_synced": true,
+      "path": "select/10_Friday_Night_The_Darkness.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Last Friday Night",
+      "artist": "Scott Bradlee's Postmodern Jukebox feat. Olivia Kuper Harris",
+      "has_synced": false,
+      "path": "select/11_Last_Friday_Night_Scott_Bradlee's_Postmodern_Jukebox_feat._Olivia_Kuper_Harris.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Last Friday Night",
+      "artist": "Scott Bradlee's Postmodern Jukebox",
+      "has_synced": false,
+      "path": "select/12_Last_Friday_Night_Scott_Bradlee's_Postmodern_Jukebox.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Friday Night (Say Yeah)",
+      "artist": "Paul Gilbert",
+      "has_synced": true,
+      "path": "select/13_Friday_Night_(Say_Yeah)_Paul_Gilbert.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Friday Night, August 14th",
+      "artist": "Funkadelic",
+      "has_synced": true,
+      "path": "select/14_Friday_Night,_August_14th_Funkadelic.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Friday Night",
+      "artist": "GFOTY",
+      "has_synced": true,
+      "path": "select/15_Friday_Night_GFOTY.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Friday Night At the Drive-In Bingo",
+      "artist": "Jens Lekman",
+      "has_synced": true,
+      "path": "select/16_Friday_Night_At_the_Drive-In_Bingo_Jens_Lekman.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Friday Night Fever",
+      "artist": "Silver Jews",
+      "has_synced": true,
+      "path": "select/17_Friday_Night_Fever_Silver_Jews.lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Sylvie (Faze Action Friday Night Boiler mix)",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/18_Sylvie_(Faze_Action_Friday_Night_Boiler_mix)_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Finally Friday",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/19_Finally_Friday_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Finally Friday (Album Version)",
+      "artist": "George Jones",
+      "has_synced": false,
+      "path": "select/20_Finally_Friday_(Album_Version)_George_Jones.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Friday Fish Fry",
+      "artist": "Kelis",
+      "has_synced": true,
+      "path": "select/21_Friday_Fish_Fry_Kelis.lrc"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "Friday On My Mind - 2015 Remastered Version",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/22_Friday_On_My_Mind_-_2015_Remastered_Version_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "Friday On My Mind",
+      "artist": "David Bowie",
+      "has_synced": true,
+      "path": "select/23_Friday_On_My_Mind_David_Bowie.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "Friday I'm in Love",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/24_Friday_I'm_in_Love_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Friday On My Mind",
+      "artist": "The Easybeats",
+      "has_synced": true,
+      "path": "select/25_Friday_On_My_Mind_The_Easybeats.lrc"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Friday the 13th",
+      "artist": "Yung Lean",
+      "has_synced": true,
+      "path": "select/26_Friday_the_13th_Yung_Lean.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Friday I'm In Love",
+      "artist": "The Cure",
+      "has_synced": true,
+      "path": "select/27_Friday_I'm_In_Love_The_Cure.lrc"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "Good Mourning / Black Friday",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/28_Good_Mourning___Black_Friday_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Good Mourning \u0000 Black Friday",
+      "artist": "Megadeth",
+      "has_synced": true,
+      "path": "select/29_Good_Mourning_\u0000_Black_Friday_Megadeth.lrc"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Freaky Friday",
+      "artist": "Aqua",
+      "has_synced": true,
+      "path": "select/30_Freaky_Friday_Aqua.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Friday Night",
+      "artist": "tonun",
+      "has_synced": false,
+      "path": "select/pl_01_Friday_Night_tonun.txt"
+    }
+  ]
+}
